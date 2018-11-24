@@ -1,0 +1,32 @@
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csprojAssemblyReference.cache
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Form1.resources
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Properties.Resources.resources
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csproj.GenerateResource.cache
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.exe.config
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.exe
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.pdb
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.exe
+C:\Users\RYZEN\source\repos\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.pdb
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.exe.config
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.exe
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.pdb
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Form1.resources
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Properties.Resources.resources
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.exe
+C:\Users\Marko\Desktop\Uticaj KM na TK-linije\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.pdb
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.exe.config
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.exe
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\bin\Debug\Uticaj KM na TK-linije.pdb
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Form1.resources
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Form2.resources
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Form3.resources
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj_KM_na_TK_linije.Properties.Resources.resources
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csproj.GenerateResource.cache
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.exe
+C:\Users\RYZEN\Desktop\Uticaj KM na TK-linije 2\Uticaj KM na TK-linije\obj\Debug\Uticaj KM na TK-linije.pdb
